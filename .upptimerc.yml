@@ -10,8 +10,6 @@ sites:
     url: https://api.nimustream.moe/api/v1/manga/ks/health
   - name: NimuStream (WeebCentral Source)
     url: https://api.nimustream.moe/api/v1/manga/wc/health
-  - name: NimuStream (Manhwazone Source)
-    url: https://api.nimustream.moe/api/v1/manga/mz/health
 
 status-website:
   cname: status.nimustream.moe
