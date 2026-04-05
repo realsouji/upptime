@@ -3,7 +3,7 @@ repo: upptime
  
 sites:
   - name: NimuStream Backend
-    url: https://api.nimustream.moe/api/health
+    url: https://api.nimustream.moe/api/v1/health
   - name: NimuStream (Komikcast Source)
     url: https://api.nimustream.moe/api/v1/manga/kc/health
   - name: NimuStream (KingOfShojo Source)
